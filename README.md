@@ -2,7 +2,7 @@
 ## Даниел Чаушки 143134
 
 ### Control flow graph
-![alt text](img/ControlFlowGraph.png )
+![alt text](C:\Users\Daniel\Desktop\SI_2022_lab2_143134/ControlFlowGraph.png )
 
 ### Цикломатска комплексност
 Цикломатската комплексност е 9 и ја одредив со предикатните јазли

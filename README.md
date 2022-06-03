@@ -2,7 +2,7 @@
 ## Даниел Чаушки 143134
 
 ### Control flow graph
-![ControlFlowGraph](https://user-images.githubusercontent.com/100686106/169165719-4d08a799-bfc5-4301-aa97-220d830a40cb.png)
+
 
 
 ### Цикломатска комплексност

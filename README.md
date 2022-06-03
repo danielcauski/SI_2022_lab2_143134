@@ -3,6 +3,7 @@
 
 ### Control flow graph
 
+![cfg-lab2](https://user-images.githubusercontent.com/100686106/171868449-340b3d27-db4b-4750-b232-d5e78f6e86de.png)
 
 
 ### Цикломатска комплексност
